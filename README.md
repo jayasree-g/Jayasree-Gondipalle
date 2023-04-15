@@ -14,4 +14,3 @@ Full stack web developer, eager to build the foundation for a professional caree
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="sequelize" width="50" height="50"/> </a>  
 
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayasree-g)](https://github.com/anuraghazra/github-readme-stats)
