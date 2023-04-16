@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Jayasree Gondipalle
-Full stack web developer, eager to build the foundation for a professional career in the field. My goal is to become a proficient and versatile developer who can create dynamic, user-friendly web applications that make a positive impact on people's lives.
+Full stack web developer, eager to build a strong foundation for a professional career. My goal is to become a proficient developer who can create dynamic, user-friendly web applications that make a positive impact on people's lives.
 
 
 🌱 I’m currently learning Backend<br>
