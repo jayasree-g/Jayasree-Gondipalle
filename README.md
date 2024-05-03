@@ -2,8 +2,8 @@
 Full stack web developer, eager to build a strong foundation for a professional career. My goal is to become a proficient developer who can create dynamic, user-friendly web applications that make a positive impact on people's lives.
 
 
-🌱 I’m currently learning Backend<br>
-💬 I would love to talk about open source, Machine Learning and NLP   
+🌱 I’m currently learning Machine Learning<br>
+💬 I would love to talk about Web development, Machine Learning and NLP   
 📫 How to reach me: jgondipalle@gmail.com    
 
 
